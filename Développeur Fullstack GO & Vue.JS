@@ -13,17 +13,17 @@
 
 Dans un contexte Agile, Cloud et en intégration continue, vos missions sont les suivantes
 
-        définir les use-cases et établir des cahiers des charges (UML/SysML) 
+        -définir les use-cases et établir des cahiers des charges (UML/SysML) 
 
-        concevoir des architectures adaptées avec des règles de gestion appropriées 
+        -concevoir des architectures adaptées avec des règles de gestion appropriées 
 
-        développer, maintenir, optimiser et déployer les solutions auxquelles vous contribuez 
+        -développer, maintenir, optimiser et déployer les solutions auxquelles vous contribuez 
 
-        effectuer les tests unitaires et rédiger la documentation technique 
+        -effectuer les tests unitaires et rédiger la documentation technique 
 
-        intervenir sur les incidents constatés en production… 
+        -intervenir sur les incidents constatés en production… 
 
-        vous êtes moteur sur l’amélioration continue, les best-pracitces et la mise en place d’outils 
+        -vous êtes moteur sur l’amélioration continue, les best-pracitces et la mise en place d’outils 
         d’automatisation 
 
 Environnement technique : Cloud, Vue.js, Golang, BDD SQL, API REST/GraphQL, WebSocket, Python, Git… 
